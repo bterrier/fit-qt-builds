@@ -1,0 +1,1 @@
+powershell -Command wget https://aka.ms/vs/16/release/vs_buildtools.exe -UseBasicParsing -OutFile vs_BuildTools.exe
